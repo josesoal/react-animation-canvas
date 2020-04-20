@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-animation-canvas/static/css/main.8719c3e0.chunk.css",
+    "main.js": "/react-animation-canvas/static/js/main.9142e731.chunk.js",
+    "main.js.map": "/react-animation-canvas/static/js/main.9142e731.chunk.js.map",
+    "runtime-main.js": "/react-animation-canvas/static/js/runtime-main.27498e54.js",
+    "runtime-main.js.map": "/react-animation-canvas/static/js/runtime-main.27498e54.js.map",
+    "static/js/2.41cbbd9d.chunk.js": "/react-animation-canvas/static/js/2.41cbbd9d.chunk.js",
+    "static/js/2.41cbbd9d.chunk.js.map": "/react-animation-canvas/static/js/2.41cbbd9d.chunk.js.map",
+    "index.html": "/react-animation-canvas/index.html",
+    "precache-manifest.546e631a0228a0c7dd55d566a8f5804b.js": "/react-animation-canvas/precache-manifest.546e631a0228a0c7dd55d566a8f5804b.js",
+    "service-worker.js": "/react-animation-canvas/service-worker.js",
+    "static/css/main.8719c3e0.chunk.css.map": "/react-animation-canvas/static/css/main.8719c3e0.chunk.css.map",
+    "static/js/2.41cbbd9d.chunk.js.LICENSE.txt": "/react-animation-canvas/static/js/2.41cbbd9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27498e54.js",
+    "static/js/2.41cbbd9d.chunk.js",
+    "static/css/main.8719c3e0.chunk.css",
+    "static/js/main.9142e731.chunk.js"
+  ]
+}
